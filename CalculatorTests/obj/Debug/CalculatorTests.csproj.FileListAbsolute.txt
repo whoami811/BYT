@@ -1,0 +1,2 @@
+C:\Users\PC\RiderProjects\BYT\CalculatorTests\obj\Debug\CalculatorTests.csproj.AssemblyReference.cache
+C:\Users\PC\RiderProjects\BYT\CalculatorTests\obj\Debug\CalculatorTests.csproj.CoreCompileInputs.cache

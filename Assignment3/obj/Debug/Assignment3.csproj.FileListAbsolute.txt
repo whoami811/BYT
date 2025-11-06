@@ -1,0 +1,6 @@
+C:\Users\PC\RiderProjects\BYT\Assignment3\bin\Debug\Assignment3.exe
+C:\Users\PC\RiderProjects\BYT\Assignment3\bin\Debug\Assignment3.pdb
+C:\Users\PC\RiderProjects\BYT\Assignment3\obj\Debug\Assignment3.csproj.AssemblyReference.cache
+C:\Users\PC\RiderProjects\BYT\Assignment3\obj\Debug\Assignment3.csproj.CoreCompileInputs.cache
+C:\Users\PC\RiderProjects\BYT\Assignment3\obj\Debug\Assignment3.exe
+C:\Users\PC\RiderProjects\BYT\Assignment3\obj\Debug\Assignment3.pdb
